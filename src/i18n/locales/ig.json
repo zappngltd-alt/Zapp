@@ -1,0 +1,168 @@
+{
+  "tabs": {
+    "home": "Ulo",
+    "favorites": "Ndi Nmasi",
+    "payments": "Ịkwụ ụgwọ",
+    "history": "Akuko",
+    "settings": "Nhazi"
+  },
+  "settings": {
+    "title": "Nhazi",
+    "subtitle": "Hazie ahụmịhe Swift gị",
+    "sections": {
+      "sim": "Nhọrọ SIM",
+      "app": "Nhọrọ Ngwa",
+      "data": "Njikwa Data",
+      "about": "Banyere"
+    },
+    "items": {
+      "preferredSim": "SIM kacha amasị",
+      "notifications": "Kwado Ọkwa",
+      "autoSave": "Chekwa Ndi Nmasi Na-akpaghị aka",
+      "favoritesSaved": "{{count}} echekwara",
+      "historyRecords": "{{count}} akuko",
+      "clearHistory": "Hichapụ Akuko",
+      "clearFavorites": "Hichapụ Ndi Nmasi",
+      "appLock": "Mkpọchi Ngwa Biometric",
+      "appLockDesc": "Chọrọ nyocha iji mepee ngwa ahụ",
+      "version": "Ụdị",
+      "developer": "Onye Mmepụta"
+    },
+    "sim": {
+      "sim1": "SIM 1",
+      "sim2": "SIM 2"
+    },
+    "alerts": {
+      "clearHistoryTitle": "Hichapụ Akuko",
+      "clearHistoryMessage": "Iji n'aka na ị chọrọ ihichapụ akụkọ ịkpọ oku niile? Enweghị ike ịgbanwe ihe a.",
+      "clearFavoritesTitle": "Hichapụ Ndi Nmasi",
+      "clearFavoritesMessage": "Iji n'aka na ị chọrọ ihichapụ ndi nmasi niile? Enweghị ike ịgbanwe ihe a.",
+      "cancel": "Kagbuo",
+      "clearAll": "Hichapụ Niile",
+      "clearedSuccess": "{{item}} ehichapụla"
+    },
+    "language": "Asụsụ",
+    "theme": {
+        "title": "Isiokwu",
+        "darkMode": "Ọnọdụ Ọchịchịrị"
+    }
+  },
+  "common": {
+    "loading": "Na-ebu...",
+    "authenticate": "Biko nyochaa ka ị gaa n'ihu",
+    "authFailed": "Nyocha agaghị ekwe omume",
+    "retry": "Gbalịa ọzọ",
+    "delete": "Hichapụ",
+    "cancel": "Kagbuo"
+  },
+  "dashboard": {
+    "tagline": "Nnweta ngwa ngwa na ihe ndị dị mkpa kwa ụbọchị.",
+    "balance": "Ifo:",
+    "searchPlaceholder": "Chọọ ọrụ...",
+    "quickActions": "Omume ngwa ngwa"
+  },
+  "serviceTabs": {
+    "title": "Ọrụ",
+    "categories": {
+      "bank": "Ụlọ Akụ",
+      "telecom": "Telcos",
+      "momo": "Momo",
+      "general": "Ndị Ọzọ",
+      "custom": "Omenala"
+    },
+    "subCategories": {
+      "transfers": "Nyefee",
+      "airtime": "Ikuku/Data",
+      "utilities": "Ihe eji eme ihe",
+      "other": "Ọrụ Ndị Ọzọ",
+      "recharge": "Itinye Ego",
+      "data": "Data",
+      "balance": "Ifo Ego",
+      "borrow": "Biri Ego",
+      "transfer": "Kekọrịta/Nyefee",
+      "support": "Nkwado",
+      "withdraw": "Weppu Ego",
+      "bills": "Kwụọ Ụgwọ",
+      "emergency": "SOS",
+      "power": "Ọkụ",
+      "education": "Mmụta",
+      "nin": "Njirimara"
+    },
+    "back": "Azụ",
+    "servicesAvailable": "{{count}} ọrụ dịnụ",
+    "noProviders": "Onweghị ndị na-enye ọrụ dịnụ",
+    "noServices": "Ahụghị ọrụ {{category}} ọ bụla",
+    "checkOthers": "Gbalịa lelee ụdị ndị ọzọ",
+    "menu": {
+      "share": "Kekọrịta Koodu",
+      "favoriteAdd": "Tinye na Ndi Nmasi",
+      "favoriteRemove": "Wepu na Ndi Nmasi",
+      "edit": "Dezie Ọrụ",
+      "delete": "Hichapụ Ọrụ",
+      "cancel": "Kagbuo",
+      "deleteTitle": "Hichapụ Ọrụ",
+      "deleteMessage": "Iji n'aka na ị chọrọ ihichapụ \"{{serviceName}}\"?",
+      "deleteConfirm": "Hichapụ"
+    },
+    "shareMessage": "{{serviceName}}\nKoodu: {{code}}\n{{provider}}\n\nKekọrịta site na Swift App"
+  },
+  "quickActions": {
+    "title": "Omume ngwa ngwa",
+    "checkBalance": "Lelee Ego Ole Fọdụrụ",
+    "buyAirtime": "Zụta Ikuku",
+    "buyData": "Zụta Data",
+    "transfer": "Nyefee"
+  },
+  "search": {
+    "placeholder": "Chọọ ọrụ...",
+    "noResults": "Enweghị nsonaazụ"
+  },
+  "inputModal": {
+    "subtitle": "Biko tinye nkọwa achọrọ n'okpuru:",
+    "cancel": "Kagbuo",
+    "dial": "Kpọọ Koodu",
+    "selectContact": "Họrọ Onye Nkpọtụrụ",
+    "noContacts": "Enweghị ndị nkpọtụrụ",
+    "searchContacts": "Chọọ ndị nkpọtụrụ..."
+  },
+  "simSelector": {
+    "label": "Họrọ Kaadi SIM",
+    "sim1": "SIM 1",
+    "sim2": "SIM 2"
+  },
+  "addService": {
+    "addTitle": "Tinye Ọrụ Ọhụrụ",
+    "editTitle": "Dezie Ọrụ",
+    "providerLabel": "Onye na-enye ọrụ / Aha Otu",
+    "providerPlaceholder": "dịka Ụlọ, Ọfịs",
+    "serviceLabel": "Aha Ọrụ",
+    "servicePlaceholder": "dịka Meghee Ọnụ Ụzọ",
+    "codeLabel": "Koodu USSD",
+    "codePlaceholder": "dịka *123#",
+    "addButton": "Tinye Ọrụ",
+    "updateButton": "Melite Ọrụ"
+  },
+  "onboarding": {
+    "slides": {
+      "welcome": {
+        "title": "Nnabata na Swift",
+        "description": "Nweta ụlọ akụ na ọrụ telivishọn gị n'otu ebe. Enweghị ịntanetị achọrọ!"
+      },
+      "quick": {
+        "title": "Otu-Tap Access",
+        "description": "Mee usoro USSD ọ bụla site n'iji otu mgbata. Agaghị echeta usoro dị mgbagwoju anya ọzọ."
+      },
+      "custom": {
+        "title": "Chọọ ma Hazie",
+        "description": "Chọọ ike maka ụlọ akụ na telcos niile. I nwekwara ike tinye nke gị omenala USSD shortcuts."
+      },
+      "secure": {
+        "title": "Nchebe adịchaghị",
+        "description": "Chebe ngwa gị na Mkpọchi Biometric. A na-echebe data ụlọ akụ gị na nzuzo gị mgbe niile."
+      }
+    },
+    "next": "Gaba",
+    "getStarted": "Bido yanzu",
+    "skip": "Tsallake"
+  }
+}

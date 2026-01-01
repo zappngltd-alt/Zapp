@@ -1,0 +1,168 @@
+{
+  "tabs": {
+    "home": "Gida",
+    "favorites": "Abubuwan So",
+    "payments": "Biya",
+    "history": "Tarihi",
+    "settings": "Saituna"
+  },
+  "settings": {
+    "title": "Saituna",
+    "subtitle": "Keɓance kwarewar Swift",
+    "sections": {
+      "sim": "Zaɓin SIM",
+      "app": "Zaɓin Aikace-aikace",
+      "data": "Gudanar da Bayanai",
+      "about": "Game da"
+    },
+    "items": {
+      "preferredSim": "SIM da aka fi so",
+      "notifications": "Enable Fadakarwa",
+      "autoSave": "Ajiye Abubuwan So ta atomatik",
+      "favoritesSaved": "{{count}} ajiye",
+      "historyRecords": "{{count}} tarihi",
+      "clearHistory": "Share Tarihi",
+      "clearFavorites": "Share Abubuwan So",
+      "appLock": "Kulle App tare da Biometrics",
+      "appLockDesc": "Bukatar tantancewa don bude app",
+      "version": "Sigar",
+      "developer": "Mai haɓakawa"
+    },
+    "sim": {
+      "sim1": "SIM 1",
+      "sim2": "SIM 2"
+    },
+    "alerts": {
+      "clearHistoryTitle": "Share Tarihi",
+      "clearHistoryMessage": "Kun tabbata kuna son share duk tarihin kira? Wannan aikin ba za a iya dawo da shi ba.",
+      "clearFavoritesTitle": "Share Abubuwan So",
+      "clearFavoritesMessage": "Kun tabbata kuna son share duk abubuwan so? Wannan aikin ba za a iya dawo da shi ba.",
+      "cancel": "Soke",
+      "clearAll": "Share Duka",
+      "clearedSuccess": "{{item}} share"
+    },
+    "language": "Harshe",
+    "theme": {
+        "title": "Jigo",
+        "darkMode": "Yanayin Duhu"
+    }
+  },
+  "common": {
+    "loading": "Ana lodawa...",
+    "authenticate": "Biko tantance don ci gaba",
+    "authFailed": "Tantancewar ta gaza",
+    "retry": "Sake gwadawa",
+    "delete": "Goge",
+    "cancel": "Soke"
+  },
+  "dashboard": {
+    "tagline": "Samun dama cikin sauri ga abubuwan yau da kullun.",
+    "balance": "Sauran:",
+    "searchPlaceholder": "Bincika sabis...",
+    "quickActions": "Ayyuka masu sauri"
+  },
+  "serviceTabs": {
+    "title": "Ayyuka",
+    "categories": {
+      "bank": "Banki",
+      "telecom": "Telcos",
+      "momo": "Momo",
+      "general": "Wasu",
+      "custom": "Na Musamman"
+    },
+    "subCategories": {
+      "transfers": "Canja wuri",
+      "airtime": "Katin/Data",
+      "utilities": "Amfani",
+      "other": "Sauran Ayyuka",
+      "recharge": "Cajin Katin",
+      "data": "Data",
+      "balance": "Sauran Kudi",
+      "borrow": "Aron Kudi",
+      "transfer": "Raba/Canja",
+      "support": "Taimako",
+      "withdraw": "Cire Kudi",
+      "bills": "Biyan Kudade",
+      "emergency": "SOS",
+      "power": "Wutar Lantarki",
+      "education": "Ilimi",
+      "nin": "Shaidar"
+    },
+    "back": "Baya",
+    "servicesAvailable": "{{count}} ayyuka da ake samu",
+    "noProviders": "Babu masu ba da sabis",
+    "noServices": "Ba a sami ayyukan {{category}} ba",
+    "checkOthers": "Gwada bincika wasu rukuni",
+    "menu": {
+      "share": "Raba Code",
+      "favoriteAdd": "Ƙara zuwa Abubuwan So",
+      "favoriteRemove": "Cire daga Abubuwan So",
+      "edit": "Gyara Sabis",
+      "delete": "Share Sabis",
+      "cancel": "Soke",
+      "deleteTitle": "Share Sabis",
+      "deleteMessage": "Kun tabbata kuna son share \"{{serviceName}}\"?",
+      "deleteConfirm": "Share"
+    },
+    "shareMessage": "{{serviceName}}\nLamba: {{code}}\n{{provider}}\n\nRaba daga Swift App"
+  },
+  "quickActions": {
+    "title": "Ayyuka masu sauri",
+    "checkBalance": "Duba Kudi",
+    "buyAirtime": "Sayi Kati",
+    "buyData": "Sayi Data",
+    "transfer": "Canja Kudi"
+  },
+  "search": {
+    "placeholder": "Bincika ayyuka...",
+    "noResults": "Ba a sami sakamako ba"
+  },
+  "inputModal": {
+    "subtitle": "Da fatan za a shigar da cikakkun bayanai a ƙasa:",
+    "cancel": "Soke",
+    "dial": "Kira Lambar",
+    "selectContact": "Zaɓi Lambar Tuntuɓa",
+    "noContacts": "Babu lambobin tuntuɓa",
+    "searchContacts": "Bincika lambobin tuntuɓa..."
+  },
+  "simSelector": {
+    "label": "Zaɓi Katin SIM",
+    "sim1": "SIM 1",
+    "sim2": "SIM 2"
+  },
+  "addService": {
+    "addTitle": "Ƙara Sabon Sabis",
+    "editTitle": "Gyara Sabis",
+    "providerLabel": "Mai Ba da Sabis / Sunan Rukuni",
+    "providerPlaceholder": "misali Gida, Ofishi",
+    "serviceLabel": "Sunan Sabis",
+    "servicePlaceholder": "misali Buɗe Ƙofa",
+    "codeLabel": "Lambar USSD",
+    "codePlaceholder": "misali *123#",
+    "addButton": "Ƙara Sabis",
+    "updateButton": "Sabunta Sabis"
+  },
+  "onboarding": {
+    "slides": {
+      "welcome": {
+        "title": "Barka da zuwa Swift",
+        "description": "Samun damar shiga duk ayyukan banki da na wayar tarho a wuri guda. Ba a bukatar intanet!"
+      },
+      "quick": {
+        "title": "Samun Dama da Taɓawa Ɗaya",
+        "description": "Yi amfani da kowace lambar USSD tare da taɓawa ɗaya kawai. Babu ƙarin haddace jerin abubuwa masu rikitarwa."
+      },
+      "custom": {
+        "title": "Bincike & Keɓancewa",
+        "description": "Bincike mai ƙarfi don duk bankuna da telcos. Hakanan zaka iya ƙara naka na musamman USSD shortcuts."
+      },
+      "secure": {
+        "title": "Babban Tsaro",
+        "description": "Kiyaye app ɗinka tare da Kulle Biometric. Ana kiyaye bayanan bankinka da sirrin ka koyaushe."
+      }
+    },
+    "next": "Gaba",
+    "getStarted": "Fara yanzu",
+    "skip": "Tsallake"
+  }
+}

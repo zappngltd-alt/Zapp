@@ -1,0 +1,187 @@
+{
+  "tabs": {
+    "home": "Home",
+    "favorites": "Favorites",
+    "payments": "Payments",
+    "history": "History",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Customize your Zapp experience",
+    "sections": {
+      "sim": "SIM Preferences",
+      "app": "App Preferences",
+      "data": "Data Management",
+      "about": "About"
+    },
+    "items": {
+      "preferredSim": "Preferred SIM Card",
+      "notifications": "Enable Notifications",
+      "autoSave": "Auto-save Favorites",
+      "favoritesSaved": "{{count}} saved",
+      "historyRecords": "{{count}} records",
+      "clearHistory": "Clear History",
+      "clearFavorites": "Clear Favorites",
+      "appLock": "Biometric App Lock",
+      "appLockDesc": "Require authentication to open the app",
+      "version": "Version",
+      "developer": "Developer"
+    },
+    "sim": {
+      "sim1": "SIM 1",
+      "sim2": "SIM 2"
+    },
+    "alerts": {
+      "clearHistoryTitle": "Clear History",
+      "clearHistoryMessage": "Are you sure you want to clear all dialing history? This action cannot be undone.",
+      "clearFavoritesTitle": "Clear Favorites",
+      "clearFavoritesMessage": "Are you sure you want to clear all favorites? This action cannot be undone.",
+      "cancel": "Cancel",
+      "clearAll": "Clear All",
+      "clearedSuccess": "{{item}} cleared"
+    },
+    "language": "Language",
+    "theme": {
+        "title": "Theme",
+        "darkMode": "Dark Mode"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "authenticate": "Please authenticate to continue",
+    "authFailed": "Authentication failed",
+    "retry": "Retry",
+    "delete": "Delete",
+    "cancel": "Cancel"
+  },
+  "dashboard": {
+    "tagline": "Quick, easy access to your daily essentials.",
+    "balance": "Bal:",
+    "searchPlaceholder": "Search services...",
+    "quickActions": "Quick Actions"
+  },
+  "serviceTabs": {
+    "title": "Services",
+    "categories": {
+      "bank": "Banks",
+      "telecom": "Telcos",
+      "momo": "Momo",
+      "general": "Others",
+      "custom": "Custom"
+    },
+    "subCategories": {
+      "transfers": "Transfers",
+      "airtime": "Airtime/Data",
+      "utilities": "Utilities",
+      "other": "Other Services",
+      "recharge": "Recharge",
+      "data": "Data",
+      "balance": "Balance",
+      "borrow": "Borrow",
+      "transfer": "Share/Transfer",
+      "support": "Support",
+      "withdraw": "Withdraw",
+      "bills": "Pay Bills",
+      "emergency": "SOS",
+      "power": "Utilities",
+      "education": "Education",
+      "nin": "Identity"
+    },
+    "back": "Back",
+    "servicesAvailable": "{{count}} services available",
+    "noProviders": "No providers available",
+    "noServices": "No {{category}} services found",
+    "checkOthers": "Try checking other categories",
+    "menu": {
+      "share": "Share Code",
+      "favoriteAdd": "Add to Favorites",
+      "favoriteRemove": "Remove from Favorites",
+      "edit": "Edit Service",
+      "delete": "Delete Service",
+      "cancel": "Cancel",
+      "deleteTitle": "Delete Service",
+      "deleteMessage": "Are you sure you want to delete \"{{serviceName}}\"?",
+      "deleteConfirm": "Delete"
+    },
+    "shareMessage": "{{serviceName}}\nCode: {{code}}\n{{provider}}\n\nShared from Zapp App"
+  },
+  "quickActions": {
+    "title": "Quick Actions",
+    "checkBalance": "Check Balance",
+    "buyAirtime": "Buy Airtime",
+    "buyData": "Buy Data",
+    "transfer": "Transfer"
+  },
+  "search": {
+    "placeholder": "Search services, providers, or codes...",
+    "noResults": "No results found"
+  },
+  "inputModal": {
+    "subtitle": "Please enter the required details below:",
+    "cancel": "Cancel",
+    "dial": "Dial Code",
+    "selectContact": "Select Contact",
+    "noContacts": "No contacts found",
+    "searchContacts": "Search contacts..."
+  },
+  "simSelector": {
+    "label": "Select SIM Card",
+    "sim1": "SIM 1",
+    "sim2": "SIM 2"
+  },
+  "addService": {
+    "addTitle": "Add New Service",
+    "editTitle": "Edit Service",
+    "providerLabel": "Provider / Group Name",
+    "providerPlaceholder": "e.g. My Home, Office",
+    "serviceLabel": "Service Name",
+    "servicePlaceholder": "e.g. Open Gate",
+    "codeLabel": "USSD Code",
+    "codePlaceholder": "e.g. *123#",
+    "addButton": "Add Service",
+    "updateButton": "Update Service"
+  },
+  "bills": {
+    "selectNetwork": "Select Network",
+    "selectProvider": "Select Provider",
+    "enterDetails": "Enter Details",
+    "meterNumber": "Meter Number",
+    "phoneNumber": "Phone Number",
+    "amount": "Amount",
+    "validate": "Verify Details",
+    "checking": "Checking...",
+    "buyNow": "Pay Now",
+    "success": "Payment Successful",
+    "tokenCode": "Your Token Code:",
+    "copyToken": "Copy Token",
+    "dataSent": "Data Sent Successfully",
+    "chooseMethod": "Choose Payment Method",
+    "momo": "MTN MoMo",
+    "transfer": "Bank Transfer",
+    "card": "ATM Card"
+  },
+  "onboarding": {
+    "slides": {
+      "welcome": {
+        "title": "Welcome to Zapp",
+        "description": "Access all your banking and telecom services in one place. No internet required!"
+      },
+      "quick": {
+        "title": "One-Tap Access",
+        "description": "Execute any USSD code with a single tap. No more memorizing complex sequences."
+      },
+      "custom": {
+        "title": "Search & Customize",
+        "description": "Powerful search for all banks and telcos. You can also add your own custom USSD shortcuts."
+      },
+      "secure": {
+        "title": "Premium Security",
+        "description": "Secure your app with Biometric Lock. Your banking data and privacy are always protected."
+      }
+    },
+    "next": "Next",
+    "getStarted": "Get Started",
+    "skip": "Skip"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "tabs": {
+    "home": "Ile",
+    "favorites": "Awon Aayo",
+    "payments": "Isanwo",
+    "history": "Itan",
+    "settings": "Eto"
+  },
+  "settings": {
+    "title": "Eto",
+    "subtitle": "Ṣe atunṣe iriri Swift rẹ",
+    "sections": {
+      "sim": "Awọn Ifẹ SIM",
+      "app": "Awọn Ifẹ Ohun elo",
+      "data": "Isakoso Data",
+      "about": "Nipa"
+    },
+    "items": {
+      "preferredSim": "SIM ti o fẹran",
+      "notifications": "Gba Awọn iwifunni",
+      "autoSave": "Fipamọ Awọn Aayo Laifọwọyi",
+      "favoritesSaved": "{{count}} ti fipamọ",
+      "historyRecords": "{{count}} itan",
+      "clearHistory": "Pa Itan Rẹ",
+      "clearFavorites": "Pa Awọn Aayo Rẹ",
+      "appLock": "Titiipa Ohun elo Biometric",
+      "appLockDesc": "Nilo afọwọsi lati ṣii ohun elo naa",
+      "version": "Ẹya",
+      "developer": "Oluhogbasoke"
+    },
+    "sim": {
+      "sim1": "SIM 1",
+      "sim2": "SIM 2"
+    },
+    "alerts": {
+      "clearHistoryTitle": "Pa Itan Rẹ",
+      "clearHistoryMessage": "Ṣe o da ọ loju pe o fẹ pa gbogbo itan ipe rẹ? Igbese yii ko le yipada.",
+      "clearFavoritesTitle": "Pa Awọn Aayo Rẹ",
+      "clearFavoritesMessage": "Ṣe o da ọ loju pe o fẹ pa gbogbo awọn aayo rẹ? Igbese yii ko le yipada.",
+      "cancel": "Fagilee",
+      "clearAll": "Pa Gbogbo",
+      "clearedSuccess": "{{item}} ti parẹ"
+    },
+    "language": "Ede",
+    "theme": {
+        "title": "Akori",
+        "darkMode": "Ipo Okunkun"
+    }
+  },
+  "common": {
+    "loading": "N kojọpọ...",
+    "authenticate": "Jọwọ fọwọsi lati tẹsiwaju",
+    "authFailed": "Afọwọsi kuna",
+    "retry": "Gbiyanju lẹẹkansii",
+    "delete": "Paarẹ",
+    "cancel": "Fagilee"
+  },
+  "dashboard": {
+    "tagline": "Wiwọle iyara si awọn ohun pataki ojoojumọ rẹ.",
+    "balance": "Iye:",
+    "searchPlaceholder": "Wa awọn iṣẹ...",
+    "quickActions": "Awọn iṣe iyara"
+  },
+  "serviceTabs": {
+    "title": "Awọn iṣẹ",
+    "categories": {
+      "bank": "Banki",
+      "telecom": "Telcos",
+      "momo": "Momo",
+      "general": "Awọn miiran",
+      "custom": "Aṣa"
+    },
+    "subCategories": {
+      "transfers": "Awọn gbigbe",
+      "airtime": "Afẹfẹ/Data",
+      "utilities": "Awọn ohun elo",
+      "other": "Awọn iṣẹ miiran",
+      "recharge": "Gbigba agbara",
+      "data": "Data",
+      "balance": "Iye owo",
+      "borrow": "Yawo",
+      "transfer": "Pinpin/Gbigbe",
+      "support": "Atilẹyin",
+      "withdraw": "Yiyọ kuro",
+      "bills": "San Owo",
+      "emergency": "SOS",
+      "power": "Ina",
+      "education": "Ẹkọ",
+      "nin": "Idanimọ"
+    },
+    "back": "Pada",
+    "servicesAvailable": "{{count}} awọn iṣẹ wa",
+    "noProviders": "Ko si olupese ti o wa",
+    "noServices": "Ko si awọn iṣẹ {{category}} ti a rii",
+    "checkOthers": "Gbiyanju lati ṣayẹwo awọn isori miiran",
+    "menu": {
+      "share": "Pin koodu",
+      "favoriteAdd": "Fi si Awọn ayanfẹ",
+      "favoriteRemove": "Yọ kuro ninu Awọn ayanfẹ",
+      "edit": "Satunkọ Iṣẹ",
+      "delete": "Pa Iṣẹ Rẹ",
+      "cancel": "Fagilee",
+      "deleteTitle": "Pa Iṣẹ Rẹ",
+      "deleteMessage": "Ṣe o da ọ loju pe o fẹ pa \"{{serviceName}}\"?",
+      "deleteConfirm": "Paarẹ"
+    },
+    "shareMessage": "{{serviceName}}\nKoodu: {{code}}\n{{provider}}\n\nPipin lati Swift App"
+  },
+  "quickActions": {
+    "title": "Awọn iṣe iyara",
+    "checkBalance": "Ṣayẹwo Iye",
+    "buyAirtime": "Ra Airtime",
+    "buyData": "Ra Data",
+    "transfer": "Gbigbe"
+  },
+  "search": {
+    "placeholder": "Wa awọn iṣẹ, awọn olupese...",
+    "noResults": "Ko si esi ti a ri"
+  },
+  "inputModal": {
+    "subtitle": "Jọwọ tẹ awọn alaye ti o nilo sii ni isalẹ:",
+    "cancel": "Fagilee",
+    "dial": "Pe Koodu",
+    "selectContact": "Yan Olubasọrọ",
+    "noContacts": "Ko si awọn olubasọrọ",
+    "searchContacts": "Wa awọn olubasọrọ..."
+  },
+  "simSelector": {
+    "label": "Yan Kaadi SIM",
+    "sim1": "SIM 1",
+    "sim2": "SIM 2"
+  },
+  "addService": {
+    "addTitle": "Ṣafikun Iṣẹ Tuntun",
+    "editTitle": "Satunkọ Iṣẹ",
+    "providerLabel": "Olupese / Orukọ Ẹgbẹ",
+    "providerPlaceholder": "fun apẹẹrẹ Ile mi, Ọfiisi",
+    "serviceLabel": "Orukọ Iṣẹ",
+    "servicePlaceholder": "fun apẹẹrẹ Ṣii Ẹnu-ọna",
+    "codeLabel": "Koodu USSD",
+    "codePlaceholder": "fun apẹẹrẹ *123#",
+    "addButton": "Ṣafikun Iṣẹ",
+    "updateButton": "Imudojuiwọn Iṣẹ"
+  },
+  "onboarding": {
+    "slides": {
+      "welcome": {
+        "title": "Kaabọ si Swift",
+        "description": "Wọle si gbogbo ile-ifowopamọ rẹ ati awọn iṣẹ telikomulọ ni aye kan. Ko si intanẹẹti nilo!"
+      },
+      "quick": {
+        "title": "Wọle Pẹlu Ifọwọkan Kan",
+        "description": "Ṣiṣe eyikeyi koodu USSD pẹlu ifọwọkan kan. Ko si memorizing eka lesese mọ."
+      },
+      "custom": {
+        "title": "Wa & Ṣe adani",
+        "description": "Iwadi ti o lagbara fun gbogbo awọn bèbe ati telcos. O tun le ṣafikun awọn ọna abuja USSD tirẹ."
+      },
+      "secure": {
+        "title": "Aabo Ere",
+        "description": "Ṣe aabo app rẹ pẹlu Titiipa Biometric. Awọn data ile-ifowopamọ rẹ ati asiri nigbagwon ni aabo nigbagbogbo."
+      }
+    },
+    "next": "Itele",
+    "getStarted": "Bẹrẹ",
+    "skip": "Foju"
+  }
+}
